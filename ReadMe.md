@@ -46,6 +46,10 @@ The system follows these main steps:
 
 Contributions are welcome! If you have ideas for improvement or encounter any issues, feel free to open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 
